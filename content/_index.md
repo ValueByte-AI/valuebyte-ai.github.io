@@ -8,14 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        PKU ValueByte-AI Lab
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The ValueByte-AI Laboratory, situated within the School of Intelligence Science and Technology at Peking University, is under the leadership of [Professor Guojie Song](https://www.cis.pku.edu.cn/info/1362/2256.htm). The laboratory is committed to the development of next-generation artificial general intelligence (AGI) that is both value-aligned and value-driven.
   
   - block: collection
     content:
