@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         
-        The ValueByte-AI Laboratory, situated within the School of Intelligence Science and Technology at Peking University, is under the leadership of [Professor Guojie Song](https://www.cis.pku.edu.cn/info/1362/2256.htm). The laboratory is committed to the development of next-generation artificial general intelligence (AGI) that is both value-aligned and value-driven.
+        The ValueByte-AI Lab, situated within the School of Intelligence Science and Technology at Peking University, is under the leadership of [Prof. Guojie Song](https://www.cis.pku.edu.cn/info/1362/2256.htm). The laboratory is committed to the development of next-generation artificial general intelligence (AGI) that is both value-aligned and value-driven.
   
   - block: collection
     content:
